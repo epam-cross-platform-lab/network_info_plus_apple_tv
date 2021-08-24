@@ -1,8 +1,8 @@
 name: network_info_plus_platform_interface
 description: A common platform interface for the network_info_plus plugin.
-version: 0.1.0
+version: 1.0.0
 homepage: https://plus.fluttercommunity.dev/
-repository: https://github.com/epam-cross-platform-lab/network_info_plus_apple_tv/
+repository: https://github.com/epam-cross-platform-lab/network_info_plus_apple_tv
 
 dependencies:
   flutter:

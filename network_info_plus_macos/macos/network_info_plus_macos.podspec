@@ -2,8 +2,8 @@
 # To learn more about a Podspec see http://guides.cocoapods.org/syntax/podspec.html
 #
 Pod::Spec.new do |s|
-  s.name             = 'network_info_plus_macos'
-  s.version          = '0.0.1'
+  s.name             = 'network_info_plus_apple_tv_macos'
+  s.version          = '1.0.0'
   s.summary          = 'Flutter plugin for checking network info'
   s.description      = <<-DESC
   Desktop implementation of the network info plugin

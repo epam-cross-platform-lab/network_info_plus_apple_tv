@@ -1,6 +1,6 @@
-# network_info_plus_apple_tv
+# network_info_plus
 
-[![Flutter Community: network_info_plus_wit_tv](https://github.com/epam-cross-platform-lab/network_info_plus_apple_tv)](https://github.com/fluttercommunity/community)
+[![Flutter Community: network_info_plus_apple_tv](https://github.com/epam-cross-platform-lab/network_info_plus_apple_tv)]
 
 [![pub package](https://img.shields.io/pub/v/network_info_plus.svg)](https://pub.dev/packages/network_info_plus)
 
@@ -23,7 +23,7 @@ The functionality is not supported on Web.
 You can get wi-fi related information using:
 
 ```dart
-import 'package:network_info_plus/network_info_plus_apple_tv.dart';
+import 'package:network_info_plus_apple_tv/network_info_plus_apple_tv.dart';
 
 final info = NetworkInfo();
 

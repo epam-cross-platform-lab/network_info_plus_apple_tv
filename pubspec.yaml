@@ -1,8 +1,8 @@
-name: network_info_plus_apple_tv
+name: network_info_plus
 description: Flutter plugin for discovering information (e.g. WiFi details) of the network.
-version: 0.1.2
+version: 1.0.2
 homepage: https://plus.fluttercommunity.dev/
-repository: https://github.com/epam-cross-platform-lab/network_info_plus_apple_tv/
+repository: https://github.com/epam-cross-platform-lab/network_info_plus_apple_tv
 
 flutter:
   plugin:

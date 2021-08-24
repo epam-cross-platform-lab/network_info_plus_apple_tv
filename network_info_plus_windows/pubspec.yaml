@@ -1,8 +1,8 @@
 name: network_info_plus_windows
 description: Windows implementation of the network_info_plus plugin
 homepage: https://plus.fluttercommunity.dev/
-repository: https://github.com/epam-cross-platform-lab/network_info_plus_apple_tv/
-version: 0.1.0
+repository: https://github.com/epam-cross-platform-lab/network_info_plus_apple_tv
+version: 1.0.0
 
 environment:
   sdk: ">=2.12.0 <3.0.0"

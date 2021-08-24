@@ -10,6 +10,7 @@ This plugin allows Flutter apps to discover network info and configure themselve
 Downloaded by pub (not CocoaPods).
                        DESC
   s.homepage         = 'https://github.com/epam-cross-platform-lab/network_info_plus_apple_tv'
+  s.author           = { 'Flutter Dev Team' => 'flutter-dev@googlegroups.com' }
   s.license          = { :type => 'BSD', :file => '../LICENSE' }
   s.source           = { :http => 'https://github.com/epam-cross-platform-lab/network_info_plus_apple_tv' }
   s.documentation_url = 'https://github.com/epam-cross-platform-lab/network_info_plus_apple_tv'

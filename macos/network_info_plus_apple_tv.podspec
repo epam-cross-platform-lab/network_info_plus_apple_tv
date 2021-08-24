@@ -10,6 +10,7 @@ Pod::Spec.new do |s|
   https://github.com/flutter/flutter/issues/46618
                        DESC
   s.homepage         = 'https://github.com/epam-cross-platform-lab/network_info_plus_apple_tv'
+  s.author           = { 'Flutter Dev Team' => 'flutter-dev@googlegroups.com' }
   s.license          = { :file => '../LICENSE' }
   s.source           = { :path => 'https://github.com/epam-cross-platform-lab/network_info_plus_apple_tv' }
   s.source_files = 'Classes/**/*'

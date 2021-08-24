@@ -3,7 +3,7 @@
 // found in the LICENSE file.
 
 import 'package:network_info_plus_apple_tv/network_info_plus_apple_tv.dart';
-import 'package:network_info_plus_apple_tv_platform_interface/network_info_plus_apple_tv_platform_interface.dart';
+import 'package:network_info_plus_platform_interface/network_info_plus_platform_interface.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:plugin_platform_interface/plugin_platform_interface.dart';
 import 'package:mockito/mockito.dart';

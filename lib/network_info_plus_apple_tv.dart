@@ -7,12 +7,12 @@ import 'dart:io' show Platform;
 
 import 'package:flutter/services.dart';
 import 'package:flutter/foundation.dart' show kIsWeb;
-import 'package:network_info_plus_apple_tv_platform_interface/network_info_plus_apple_tv_platform_interface.dart';
-import 'package:network_info_plus_apple_tv_platform_interface/method_channel_network_info.dart';
-import 'package:network_info_plus_apple_tv_linux/network_info_plus_apple_tv_linux.dart';
+import 'package:network_info_plus_platform_interface/network_info_plus_platform_interface.dart';
+import 'package:network_info_plus_platform_interface/method_channel_network_info.dart';
+import 'package:network_info_plus_linux/network_info_plus_linux.dart';
 
 // Export enums from the platform_interface so plugin users can use them directly.
-export 'package:network_info_plus_apple_tv_platform_interface/network_info_plus_apple_tv_platform_interface.dart'
+export 'package:network_info_plus_platform_interface/network_info_plus_platform_interface.dart'
     show LocationAuthorizationStatus;
 
 /// Discover network info: check WI-FI details and more.

@@ -1,4 +1,4 @@
-name: network_info_plus_apple_tv_example
+name: network_info_plus_example
 description: Demonstrates how to use the network_info_plus plugin.
 
 environment:
@@ -7,7 +7,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  network_info_plus:
+  network_info_plus_apple_tv:
     path: ../
 
 dev_dependencies:

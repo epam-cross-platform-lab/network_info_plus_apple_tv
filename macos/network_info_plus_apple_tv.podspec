@@ -3,7 +3,7 @@
 #
 Pod::Spec.new do |s|
   s.name             = 'network_info_plus_apple_tv'
-  s.version          = '1.0.2'
+  s.version          = '1.0.3'
   s.summary          = 'No-op implementation of the macos network_info_plus to avoid build issues on macos'
   s.description      = <<-DESC
   No-op implementation of the network_info_plus plugin to avoid build issues on macos.

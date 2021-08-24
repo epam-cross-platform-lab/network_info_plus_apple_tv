@@ -1,3 +1,7 @@
+## 1.0.3
+
+- Updated podspecs
+
 ## 1.0.2
 
 - Refactoring

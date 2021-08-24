@@ -3,7 +3,7 @@
 #
 Pod::Spec.new do |s|
   s.name             = 'network_info_plus_apple_tv'
-  s.version          = '1.0.2'
+  s.version          = '1.0.3'
   s.summary          = 'Flutter Network Info'
   s.description      = <<-DESC
 This plugin allows Flutter apps to discover network info and configure themselves accordingly.

@@ -2,7 +2,7 @@ https://github.com/fluttercommunity/plus_plugins/tree/main/packages/#
 # To learn more about a Podspec see http://guides.cocoapods.org/syntax/podspec.html
 #
 Pod::Spec.new do |s|
-  s.name             = 'network_info_plus_tv'
+  s.name             = 'network_info_plus_apple_tv'
   s.version          = '0.0.1'
   s.summary          = 'Flutter Network Info'
   s.description      = <<-DESC

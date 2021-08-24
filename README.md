@@ -1,8 +1,6 @@
-# network_info_plus
+# network_info_plus_apple_tv
 
 [![Flutter Community: network_info_plus_apple_tv](https://github.com/epam-cross-platform-lab/network_info_plus_apple_tv)]
-
-[![pub package](https://img.shields.io/pub/v/network_info_plus.svg)](https://pub.dev/packages/network_info_plus)
 
 <p class="center">
 <center><a href="https://flutter.dev/docs/development/packages-and-plugins/favorites" target="_blank" rel="noreferrer noopener"><img src="../../website/static/img/flutter-favorite-badge.png" width="100" alt="build"></a></center>

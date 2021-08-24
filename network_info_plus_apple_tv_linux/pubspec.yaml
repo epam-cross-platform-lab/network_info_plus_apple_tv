@@ -1,0 +1,28 @@
+name: network_info_plus_apple_tv_linux
+description: Linux implementation of the network_info_plus_apple_tv plugin
+homepage: https://github.com/epam-cross-platform-lab/network_info_plus_apple_tv
+repository: https://github.com/epam-cross-platform-lab/network_info_plus_apple_tv
+version: 1.0.1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+  flutter: ">=1.20.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  dbus: ^0.5.1
+  meta: ^1.3.0
+  network_info_plus_apple_tv_platform_interface: ^1.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  pedantic: ^1.10.0
+
+flutter:
+  plugin:
+    platforms:
+      linux:
+        dartPluginClass: NetworkInfoLinux
+        pluginClass: none

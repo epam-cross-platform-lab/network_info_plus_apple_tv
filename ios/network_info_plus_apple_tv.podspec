@@ -2,7 +2,7 @@
 # To learn more about a Podspec see http://guides.cocoapods.org/syntax/podspec.html
 #
 Pod::Spec.new do |s|
-  s.name             = 'network_info_plus_apple_tv'
+  s.name             = 'network_info_plus'
   s.version          = '1.0.3'
   s.summary          = 'Flutter Network Info'
   s.description      = <<-DESC
